@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hey there, Im Karthikeyan from India<br>- 🔭 I’m working as a UX Architect at RunVerve.<br>- 🎓 I'm pursuing my bachelor's degree in Electronics and Communication Engineering (ECE).<br>- 📚 I'm currently learning Native Android development using Kotlin, Jetpack Compose, and XML.<br>- ⚡ In my free time, I enjoy creating cool 3D CGI works.<br>- 🎨 I'm a passionate 3D artist with a deep interest in digital art and design.<br>- 🚀 I’m dedicated to continuous learning and staying updated with the latest trends in technology and design.</p>
+<p align="left">Hey there, Im Karthikeyan from India<br> - 🔭 I’m working as a UX Architect at RunVerve.<br> - 🎓 I'm pursuing my bachelor's degree in Electronics and Communication Engineering (ECE).<br>- 📚 I'm currently learning Native Android development using Kotlin, Jetpack Compose, and XML.<br>- ⚡ In my free time, I enjoy creating cool 3D CGI works.<br>- 🎨 I'm a passionate 3D artist with a deep interest in digital art and design.<br>- 🚀 I’m dedicated to continuous learning and staying updated with the latest trends in technology and design.</p>
 
 ###
 
